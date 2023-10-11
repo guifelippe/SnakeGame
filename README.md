@@ -29,4 +29,4 @@ To run the Snake game on your system, follow these steps:
 
 ## Collaborators
 
- - [João Guilherme Pereira dos Santos](https://github.com/Joao2708-P)
+   - João Guilherme Pereira dos Santos -[GitHub](https://github.com/Joao2708-P)
